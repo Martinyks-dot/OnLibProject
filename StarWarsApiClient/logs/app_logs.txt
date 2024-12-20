@@ -1,0 +1,469 @@
+2024-12-18 16:54:54 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 16:54:54 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 16:54:55 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 17:02:57 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 17:02:57 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 17:02:58 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.GuiController - Main scene created successfully.
+2024-12-18 17:02:58 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 17:11:32 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 17:11:32 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 17:11:32 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.GuiController - Main scene created successfully.
+2024-12-18 17:11:33 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 17:17:06 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 17:17:06 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 17:17:06 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.GuiController - Main scene created successfully.
+2024-12-18 17:17:07 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 17:17:13 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.QueryDictionary - Initializing QueryDictionary...
+2024-12-18 17:17:13 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.QueryDictionary - QueryDictionary initialized successfully.
+2024-12-18 17:18:22 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 17:18:22 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 17:18:22 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.GuiController - Main scene created successfully.
+2024-12-18 17:18:22 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 17:18:26 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.QueryDictionary - Initializing QueryDictionary...
+2024-12-18 17:18:26 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.QueryDictionary - QueryDictionary initialized successfully.
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the name of the planet: Alderaan
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the rotation period of the planet: 24
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the orbital period of the planet: 364
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the diameter of the planet: 12500
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the climate of the planet: temperate
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the gravity of the planet: 1 standard
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the terrain of the planet: grasslands, mountains
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the surface water of the planet: 40
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the population of the planet: 2000000000
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the residents of the planet: [https://swapi-api.hbtn.io/api/people/5/, https://swapi-api.hbtn.io/api/people/68/, https://swapi-api.hbtn.io/api/people/81/]
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the films where the planet appears: [https://swapi-api.hbtn.io/api/films/1/, https://swapi-api.hbtn.io/api/films/6/]
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the creation date of the planet: 2014-12-10T11:35:48.479000Z
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the last edited date of the planet: 2014-12-20T20:58:18.420000Z
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the URL of the planet: https://swapi-api.hbtn.io/api/planets/2/
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Getting the name of the planet: Alderaan
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Getting the climate of the planet: temperate
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Getting the terrain of the planet: grasslands, mountains
+2024-12-18 17:18:37 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.PlanetDTO - Getting the population of the planet: 2000000000
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character name: Luke Skywalker
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character height: 172
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character mass: 77
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character hair color: blond
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character skin color: fair
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character eye color: blue
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character birth year: 19BBY
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character gender: male
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character homeworld: https://swapi-api.hbtn.io/api/planets/1/
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character films: [https://swapi-api.hbtn.io/api/films/1/, https://swapi-api.hbtn.io/api/films/2/, https://swapi-api.hbtn.io/api/films/3/, https://swapi-api.hbtn.io/api/films/6/, https://swapi-api.hbtn.io/api/films/7/]
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character species: [https://swapi-api.hbtn.io/api/species/1/]
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character vehicles: [https://swapi-api.hbtn.io/api/vehicles/14/, https://swapi-api.hbtn.io/api/vehicles/30/]
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character starships: [https://swapi-api.hbtn.io/api/starships/12/, https://swapi-api.hbtn.io/api/starships/22/]
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character URL: https://swapi-api.hbtn.io/api/people/1/
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character name: Luke Skywalker
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character height: 172
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character mass: 77
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character hair color: blond
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character skin color: fair
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character eye color: blue
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character birth year: 19BBY
+2024-12-18 17:18:49 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character gender: male
+2024-12-18 17:19:44 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 17:19:45 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 17:19:45 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.GuiController - Main scene created successfully.
+2024-12-18 17:19:45 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 17:26:03 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 17:26:03 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 17:26:03 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.GuiController - Main scene created successfully.
+2024-12-18 17:26:03 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 17:30:11 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 17:30:11 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 17:30:11 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.GuiController - Main scene created successfully.
+2024-12-18 17:30:11 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 17:30:50 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 17:30:50 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 17:30:51 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.GuiController - Main scene created successfully.
+2024-12-18 17:30:51 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 17:32:53 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 17:32:53 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 17:32:53 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.GuiController - Main scene created successfully.
+2024-12-18 17:32:53 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 17:32:57 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.QueryDictionary - Initializing QueryDictionary...
+2024-12-18 17:32:57 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.QueryDictionary - QueryDictionary initialized successfully.
+2024-12-18 17:33:03 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiService - Получение персонажа по имени: R2-D2
+2024-12-18 17:33:03 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/people?search=R2-D2
+2024-12-18 17:33:05 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {"count":1,"next":null,"previous":null,"results":[{"name":"R2-D2","height":"96","mass":"32","hair_color":"n/a","skin_color":"white, blue","eye_color":"red","birth_year":"33BBY","gender":"n/a","homeworld":"https://swapi-api.hbtn.io/api/planets/8/","films":["https://swapi-api.hbtn.io/api/films/1/","https://swapi-api.hbtn.io/api/films/2/","https://swapi-api.hbtn.io/api/films/3/","https://swapi-api.hbtn.io/api/films/4/","https://swapi-api.hbtn.io/api/films/5/","https://swapi-api.hbtn.io/api/films/6/","https://swapi-api.hbtn.io/api/films/7/"],"species":["https://swapi-api.hbtn.io/api/species/2/"],"vehicles":[],"starships":[],"created":"2014-12-10T15:11:50.376000Z","edited":"2014-12-20T21:17:50.311000Z","url":"https://swapi-api.hbtn.io/api/people/3/"}]}
+2024-12-18 17:33:05 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 1
+2024-12-18 17:33:05 [JavaFX Application Thread] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 17:33:05 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 17:33:05 [JavaFX Application Thread] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 17:33:05 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character name: R2-D2
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character height: 96
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character mass: 32
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character hair color: n/a
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character skin color: white, blue
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character eye color: red
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character birth year: 33BBY
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character gender: n/a
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character homeworld: https://swapi-api.hbtn.io/api/planets/8/
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character films: [https://swapi-api.hbtn.io/api/films/1/, https://swapi-api.hbtn.io/api/films/2/, https://swapi-api.hbtn.io/api/films/3/, https://swapi-api.hbtn.io/api/films/4/, https://swapi-api.hbtn.io/api/films/5/, https://swapi-api.hbtn.io/api/films/6/, https://swapi-api.hbtn.io/api/films/7/]
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character species: [https://swapi-api.hbtn.io/api/species/2/]
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character vehicles: []
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character starships: []
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting created date for character: 2014-12-10T15:11:50.376000Z
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting edited date for character: 2014-12-20T21:17:50.311000Z
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character URL: https://swapi-api.hbtn.io/api/people/3/
+2024-12-18 17:33:05 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 1 items.
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character name: R2-D2
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character height: 96
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character mass: 32
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character hair color: n/a
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character skin color: white, blue
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character eye color: red
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character birth year: 33BBY
+2024-12-18 17:33:05 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character gender: n/a
+2024-12-18 17:34:34 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 17:34:34 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 17:34:34 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.GuiController - Main scene created successfully.
+2024-12-18 17:34:34 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 17:39:56 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 17:39:56 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 17:39:56 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.GuiController - Main scene created successfully.
+2024-12-18 17:39:56 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 17:55:05 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 17:55:05 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 17:55:05 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.GuiController - Main scene created successfully.
+2024-12-18 17:55:06 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 17:55:09 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.QueryDictionary - Initializing QueryDictionary...
+2024-12-18 17:55:09 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.QueryDictionary - QueryDictionary initialized successfully.
+2024-12-18 17:59:23 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 17:59:23 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 17:59:24 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.GuiController - Main scene created successfully.
+2024-12-18 17:59:24 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 17:59:46 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.QueryDictionary - Initializing QueryDictionary...
+2024-12-18 17:59:46 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.QueryDictionary - QueryDictionary initialized successfully.
+2024-12-18 17:59:55 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiService - Получение персонажа по имени: Р2--Д2
+2024-12-18 17:59:55 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/people?search=Р2--Д2
+2024-12-18 17:59:57 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {"count":0,"next":null,"previous":null,"results":[]}
+2024-12-18 17:59:57 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 0
+2024-12-18 17:59:57 [JavaFX Application Thread] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 17:59:57 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 17:59:57 [JavaFX Application Thread] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 17:59:57 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 17:59:57 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 0 items.
+2024-12-18 17:59:57 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 17:59:57 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 17:59:57 [JavaFX Application Thread] WARN  com.example.starwarsapiclient.ApiService - Объект не найден по запросу: Р2--Д2
+2024-12-18 18:00:02 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiService - Получение персонажа по имени: Р2-Д2
+2024-12-18 18:00:02 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/people?search=R2-D2
+2024-12-18 18:00:02 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {"count":1,"next":null,"previous":null,"results":[{"name":"R2-D2","height":"96","mass":"32","hair_color":"n/a","skin_color":"white, blue","eye_color":"red","birth_year":"33BBY","gender":"n/a","homeworld":"https://swapi-api.hbtn.io/api/planets/8/","films":["https://swapi-api.hbtn.io/api/films/1/","https://swapi-api.hbtn.io/api/films/2/","https://swapi-api.hbtn.io/api/films/3/","https://swapi-api.hbtn.io/api/films/4/","https://swapi-api.hbtn.io/api/films/5/","https://swapi-api.hbtn.io/api/films/6/","https://swapi-api.hbtn.io/api/films/7/"],"species":["https://swapi-api.hbtn.io/api/species/2/"],"vehicles":[],"starships":[],"created":"2014-12-10T15:11:50.376000Z","edited":"2014-12-20T21:17:50.311000Z","url":"https://swapi-api.hbtn.io/api/people/3/"}]}
+2024-12-18 18:00:02 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 1
+2024-12-18 18:00:02 [JavaFX Application Thread] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 18:00:02 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 18:00:02 [JavaFX Application Thread] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 18:00:02 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character name: R2-D2
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character height: 96
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character mass: 32
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character hair color: n/a
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character skin color: white, blue
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character eye color: red
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character birth year: 33BBY
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character gender: n/a
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character homeworld: https://swapi-api.hbtn.io/api/planets/8/
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character films: [https://swapi-api.hbtn.io/api/films/1/, https://swapi-api.hbtn.io/api/films/2/, https://swapi-api.hbtn.io/api/films/3/, https://swapi-api.hbtn.io/api/films/4/, https://swapi-api.hbtn.io/api/films/5/, https://swapi-api.hbtn.io/api/films/6/, https://swapi-api.hbtn.io/api/films/7/]
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character species: [https://swapi-api.hbtn.io/api/species/2/]
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character vehicles: []
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character starships: []
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting created date for character: 2014-12-10T15:11:50.376000Z
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting edited date for character: 2014-12-20T21:17:50.311000Z
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character URL: https://swapi-api.hbtn.io/api/people/3/
+2024-12-18 18:00:02 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 1 items.
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character name: R2-D2
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character height: 96
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character mass: 32
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character hair color: n/a
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character skin color: white, blue
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character eye color: red
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character birth year: 33BBY
+2024-12-18 18:00:02 [JavaFX Application Thread] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character gender: n/a
+2024-12-18 21:12:51 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 21:12:51 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 21:12:51 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.GuiController - Main scene created successfully.
+2024-12-18 21:12:51 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 21:13:57 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 21:13:57 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 21:13:57 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.GuiController - Main scene created successfully.
+2024-12-18 21:13:58 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 21:14:24 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 21:14:24 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 21:14:24 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.GuiController - Main scene created successfully.
+2024-12-18 21:14:25 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 21:21:35 [main] INFO  com.example.starwarsapiclient.MainApp - Starting the Star Wars API Client application...
+2024-12-18 21:21:35 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Initializing API service...
+2024-12-18 21:21:36 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.GuiController - Main scene created successfully.
+2024-12-18 21:21:36 [JavaFX Application Thread] INFO  com.example.starwarsapiclient.MainApp - Main window initialized successfully.
+2024-12-18 21:24:40 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Получение фильма по названию: Звездные Войны: Эпизод IV — Новая надежда
+2024-12-18 21:24:40 [Test worker] INFO  com.example.starwarsapiclient.QueryDictionary - Initializing QueryDictionary...
+2024-12-18 21:24:40 [Test worker] INFO  com.example.starwarsapiclient.QueryDictionary - QueryDictionary initialized successfully.
+2024-12-18 21:24:40 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/films?search=Star Wars: Episode IV - A New Hope
+2024-12-18 21:24:41 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {"count":0,"next":null,"previous":null,"results":[]}
+2024-12-18 21:24:42 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 0
+2024-12-18 21:24:42 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 21:24:42 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 21:24:42 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 21:24:42 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 21:24:42 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 0 items.
+2024-12-18 21:24:42 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:24:42 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:24:42 [Test worker] WARN  com.example.starwarsapiclient.ApiService - Объект не найден по запросу: Звездные Войны: Эпизод IV — Новая надежда
+2024-12-18 21:24:42 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Получение фильма по названию: Неизвестный Фильм
+2024-12-18 21:24:42 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/films?search=Неизвестный Фильм
+2024-12-18 21:24:42 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {"count":0,"next":null,"previous":null,"results":[]}
+2024-12-18 21:24:42 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 0
+2024-12-18 21:24:42 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 21:24:42 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 21:24:42 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 21:24:42 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 21:24:42 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 0 items.
+2024-12-18 21:24:42 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:24:42 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:24:42 [Test worker] WARN  com.example.starwarsapiclient.ApiService - Объект не найден по запросу: Неизвестный Фильм
+2024-12-18 21:24:42 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Получение персонажа по имени: Неизвестный Персонаж
+2024-12-18 21:24:42 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/people?search=Неизвестный Персонаж
+2024-12-18 21:24:43 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {"count":0,"next":null,"previous":null,"results":[]}
+2024-12-18 21:24:43 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 0
+2024-12-18 21:24:43 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 21:24:43 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 21:24:43 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 21:24:43 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 21:24:43 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 0 items.
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:24:43 [Test worker] WARN  com.example.starwarsapiclient.ApiService - Объект не найден по запросу: Неизвестный Персонаж
+2024-12-18 21:24:43 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Получение персонажа по имени: Люк Скайуокер
+2024-12-18 21:24:43 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/people?search=Luke Skywalker
+2024-12-18 21:24:43 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {"count":1,"next":null,"previous":null,"results":[{"name":"Luke Skywalker","height":"172","mass":"77","hair_color":"blond","skin_color":"fair","eye_color":"blue","birth_year":"19BBY","gender":"male","homeworld":"https://swapi-api.hbtn.io/api/planets/1/","films":["https://swapi-api.hbtn.io/api/films/1/","https://swapi-api.hbtn.io/api/films/2/","https://swapi-api.hbtn.io/api/films/3/","https://swapi-api.hbtn.io/api/films/6/","https://swapi-api.hbtn.io/api/films/7/"],"species":["https://swapi-api.hbtn.io/api/species/1/"],"vehicles":["https://swapi-api.hbtn.io/api/vehicles/14/","https://swapi-api.hbtn.io/api/vehicles/30/"],"starships":["https://swapi-api.hbtn.io/api/starships/12/","https://swapi-api.hbtn.io/api/starships/22/"],"created":"2014-12-09T13:50:51.644000Z","edited":"2014-12-20T21:17:56.891000Z","url":"https://swapi-api.hbtn.io/api/people/1/"}]}
+2024-12-18 21:24:43 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 1
+2024-12-18 21:24:43 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 21:24:43 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 21:24:43 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 21:24:43 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character name: Luke Skywalker
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character height: 172
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character mass: 77
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character hair color: blond
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character skin color: fair
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character eye color: blue
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character birth year: 19BBY
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character gender: male
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character homeworld: https://swapi-api.hbtn.io/api/planets/1/
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character films: [https://swapi-api.hbtn.io/api/films/1/, https://swapi-api.hbtn.io/api/films/2/, https://swapi-api.hbtn.io/api/films/3/, https://swapi-api.hbtn.io/api/films/6/, https://swapi-api.hbtn.io/api/films/7/]
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character species: [https://swapi-api.hbtn.io/api/species/1/]
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character vehicles: [https://swapi-api.hbtn.io/api/vehicles/14/, https://swapi-api.hbtn.io/api/vehicles/30/]
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character starships: [https://swapi-api.hbtn.io/api/starships/12/, https://swapi-api.hbtn.io/api/starships/22/]
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting created date for character: 2014-12-09T13:50:51.644000Z
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting edited date for character: 2014-12-20T21:17:56.891000Z
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character URL: https://swapi-api.hbtn.io/api/people/1/
+2024-12-18 21:24:43 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 1 items.
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:24:43 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character name: Luke Skywalker
+2024-12-18 21:24:43 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Получение планеты по имени: Татуин
+2024-12-18 21:24:43 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/planets?search=Tatooine
+2024-12-18 21:24:44 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {"count":1,"next":null,"previous":null,"results":[{"name":"Tatooine","rotation_period":"23","orbital_period":"304","diameter":"10465","climate":"arid","gravity":"1 standard","terrain":"desert","surface_water":"1","population":"200000","residents":["https://swapi-api.hbtn.io/api/people/1/","https://swapi-api.hbtn.io/api/people/2/","https://swapi-api.hbtn.io/api/people/4/","https://swapi-api.hbtn.io/api/people/6/","https://swapi-api.hbtn.io/api/people/7/","https://swapi-api.hbtn.io/api/people/8/","https://swapi-api.hbtn.io/api/people/9/","https://swapi-api.hbtn.io/api/people/11/","https://swapi-api.hbtn.io/api/people/43/","https://swapi-api.hbtn.io/api/people/62/"],"films":["https://swapi-api.hbtn.io/api/films/1/","https://swapi-api.hbtn.io/api/films/3/","https://swapi-api.hbtn.io/api/films/4/","https://swapi-api.hbtn.io/api/films/5/","https://swapi-api.hbtn.io/api/films/6/"],"created":"2014-12-09T13:50:49.641000Z","edited":"2014-12-20T20:58:18.411000Z","url":"https://swapi-api.hbtn.io/api/planets/1/"}]}
+2024-12-18 21:24:44 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 1
+2024-12-18 21:24:44 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 21:24:44 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 21:24:44 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 21:24:44 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the name of the planet: Tatooine
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the rotation period of the planet: 23
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the orbital period of the planet: 304
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the diameter of the planet: 10465
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the climate of the planet: arid
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the gravity of the planet: 1 standard
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the terrain of the planet: desert
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the surface water of the planet: 1
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the population of the planet: 200000
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the residents of the planet: [https://swapi-api.hbtn.io/api/people/1/, https://swapi-api.hbtn.io/api/people/2/, https://swapi-api.hbtn.io/api/people/4/, https://swapi-api.hbtn.io/api/people/6/, https://swapi-api.hbtn.io/api/people/7/, https://swapi-api.hbtn.io/api/people/8/, https://swapi-api.hbtn.io/api/people/9/, https://swapi-api.hbtn.io/api/people/11/, https://swapi-api.hbtn.io/api/people/43/, https://swapi-api.hbtn.io/api/people/62/]
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the films where the planet appears: [https://swapi-api.hbtn.io/api/films/1/, https://swapi-api.hbtn.io/api/films/3/, https://swapi-api.hbtn.io/api/films/4/, https://swapi-api.hbtn.io/api/films/5/, https://swapi-api.hbtn.io/api/films/6/]
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the creation date of the planet: 2014-12-09T13:50:49.641000Z
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the last edited date of the planet: 2014-12-20T20:58:18.411000Z
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the URL of the planet: https://swapi-api.hbtn.io/api/planets/1/
+2024-12-18 21:24:44 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 1 items.
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:24:44 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Getting the name of the planet: Tatooine
+2024-12-18 21:24:44 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Получение планеты по имени: Неизвестная Планета
+2024-12-18 21:24:44 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/planets?search=Неизвестная Планета
+2024-12-18 21:24:45 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {"count":0,"next":null,"previous":null,"results":[]}
+2024-12-18 21:24:45 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 0
+2024-12-18 21:24:45 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 21:24:45 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 21:24:45 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 21:24:45 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 21:24:45 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 0 items.
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:24:45 [Test worker] WARN  com.example.starwarsapiclient.ApiService - Объект не найден по запросу: Неизвестная Планета
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character name: Luke Skywalker
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character height: 172
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character mass: 77
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character hair color: Blond
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character skin color: Fair
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character eye color: Blue
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character birth year: 19BBY
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character gender: Male
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character homeworld: https://swapi.dev/api/planets/1/
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character films: [https://swapi.dev/api/films/1/]
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character species: []
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character vehicles: [https://swapi.dev/api/vehicles/14/]
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character starships: [https://swapi.dev/api/starships/12/]
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character URL: https://swapi.dev/api/people/1/
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting created date for character: 2014-12-09T13:50:51.644000Z
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting edited date for character: 2014-12-20T21:17:56.891000Z
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character name: Luke Skywalker
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character height: 172
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character mass: 77
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character hair color: Blond
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character skin color: Fair
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character eye color: Blue
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character birth year: 19BBY
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character gender: Male
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character homeworld: https://swapi.dev/api/planets/1/
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character films: [https://swapi.dev/api/films/1/]
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character species: []
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character vehicles: [https://swapi.dev/api/vehicles/14/]
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character starships: [https://swapi.dev/api/starships/12/]
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character URL: https://swapi.dev/api/people/1/
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character created date: 2014-12-09T13:50:51.644000Z
+2024-12-18 21:24:45 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting edited date for character: 2014-12-20T21:17:56.891000Z
+2024-12-18 21:26:54 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Получение фильма по названию: Неизвестный Фильм
+2024-12-18 21:26:54 [Test worker] INFO  com.example.starwarsapiclient.QueryDictionary - Initializing QueryDictionary...
+2024-12-18 21:26:54 [Test worker] INFO  com.example.starwarsapiclient.QueryDictionary - QueryDictionary initialized successfully.
+2024-12-18 21:26:54 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/films?search=Неизвестный Фильм
+2024-12-18 21:26:56 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {"count":0,"next":null,"previous":null,"results":[]}
+2024-12-18 21:26:56 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 0
+2024-12-18 21:26:56 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 21:26:56 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 21:26:56 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 21:26:56 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 21:26:56 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 0 items.
+2024-12-18 21:26:56 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:26:56 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:26:56 [Test worker] WARN  com.example.starwarsapiclient.ApiService - Объект не найден по запросу: Неизвестный Фильм
+2024-12-18 21:26:56 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Получение персонажа по имени: Неизвестный Персонаж
+2024-12-18 21:26:56 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/people?search=Неизвестный Персонаж
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {"count":0,"next":null,"previous":null,"results":[]}
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 0
+2024-12-18 21:26:57 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 21:26:57 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 0 items.
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:26:57 [Test worker] WARN  com.example.starwarsapiclient.ApiService - Объект не найден по запросу: Неизвестный Персонаж
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Получение персонажа по имени: Люк Скайуокер
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/people?search=Luke Skywalker
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {"count":1,"next":null,"previous":null,"results":[{"name":"Luke Skywalker","height":"172","mass":"77","hair_color":"blond","skin_color":"fair","eye_color":"blue","birth_year":"19BBY","gender":"male","homeworld":"https://swapi-api.hbtn.io/api/planets/1/","films":["https://swapi-api.hbtn.io/api/films/1/","https://swapi-api.hbtn.io/api/films/2/","https://swapi-api.hbtn.io/api/films/3/","https://swapi-api.hbtn.io/api/films/6/","https://swapi-api.hbtn.io/api/films/7/"],"species":["https://swapi-api.hbtn.io/api/species/1/"],"vehicles":["https://swapi-api.hbtn.io/api/vehicles/14/","https://swapi-api.hbtn.io/api/vehicles/30/"],"starships":["https://swapi-api.hbtn.io/api/starships/12/","https://swapi-api.hbtn.io/api/starships/22/"],"created":"2014-12-09T13:50:51.644000Z","edited":"2014-12-20T21:17:56.891000Z","url":"https://swapi-api.hbtn.io/api/people/1/"}]}
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 1
+2024-12-18 21:26:57 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 21:26:57 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character name: Luke Skywalker
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character height: 172
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character mass: 77
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character hair color: blond
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character skin color: fair
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character eye color: blue
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character birth year: 19BBY
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character gender: male
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character homeworld: https://swapi-api.hbtn.io/api/planets/1/
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character films: [https://swapi-api.hbtn.io/api/films/1/, https://swapi-api.hbtn.io/api/films/2/, https://swapi-api.hbtn.io/api/films/3/, https://swapi-api.hbtn.io/api/films/6/, https://swapi-api.hbtn.io/api/films/7/]
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character species: [https://swapi-api.hbtn.io/api/species/1/]
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character vehicles: [https://swapi-api.hbtn.io/api/vehicles/14/, https://swapi-api.hbtn.io/api/vehicles/30/]
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character starships: [https://swapi-api.hbtn.io/api/starships/12/, https://swapi-api.hbtn.io/api/starships/22/]
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting created date for character: 2014-12-09T13:50:51.644000Z
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting edited date for character: 2014-12-20T21:17:56.891000Z
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character URL: https://swapi-api.hbtn.io/api/people/1/
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 1 items.
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character name: Luke Skywalker
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Получение планеты по имени: Татуин
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/planets?search=Tatooine
+2024-12-18 21:26:58 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {"count":1,"next":null,"previous":null,"results":[{"name":"Tatooine","rotation_period":"23","orbital_period":"304","diameter":"10465","climate":"arid","gravity":"1 standard","terrain":"desert","surface_water":"1","population":"200000","residents":["https://swapi-api.hbtn.io/api/people/1/","https://swapi-api.hbtn.io/api/people/2/","https://swapi-api.hbtn.io/api/people/4/","https://swapi-api.hbtn.io/api/people/6/","https://swapi-api.hbtn.io/api/people/7/","https://swapi-api.hbtn.io/api/people/8/","https://swapi-api.hbtn.io/api/people/9/","https://swapi-api.hbtn.io/api/people/11/","https://swapi-api.hbtn.io/api/people/43/","https://swapi-api.hbtn.io/api/people/62/"],"films":["https://swapi-api.hbtn.io/api/films/1/","https://swapi-api.hbtn.io/api/films/3/","https://swapi-api.hbtn.io/api/films/4/","https://swapi-api.hbtn.io/api/films/5/","https://swapi-api.hbtn.io/api/films/6/"],"created":"2014-12-09T13:50:49.641000Z","edited":"2014-12-20T20:58:18.411000Z","url":"https://swapi-api.hbtn.io/api/planets/1/"}]}
+2024-12-18 21:26:58 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 1
+2024-12-18 21:26:58 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 21:26:58 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 21:26:58 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 21:26:58 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the name of the planet: Tatooine
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the rotation period of the planet: 23
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the orbital period of the planet: 304
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the diameter of the planet: 10465
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the climate of the planet: arid
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the gravity of the planet: 1 standard
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the terrain of the planet: desert
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the surface water of the planet: 1
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the population of the planet: 200000
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the residents of the planet: [https://swapi-api.hbtn.io/api/people/1/, https://swapi-api.hbtn.io/api/people/2/, https://swapi-api.hbtn.io/api/people/4/, https://swapi-api.hbtn.io/api/people/6/, https://swapi-api.hbtn.io/api/people/7/, https://swapi-api.hbtn.io/api/people/8/, https://swapi-api.hbtn.io/api/people/9/, https://swapi-api.hbtn.io/api/people/11/, https://swapi-api.hbtn.io/api/people/43/, https://swapi-api.hbtn.io/api/people/62/]
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the films where the planet appears: [https://swapi-api.hbtn.io/api/films/1/, https://swapi-api.hbtn.io/api/films/3/, https://swapi-api.hbtn.io/api/films/4/, https://swapi-api.hbtn.io/api/films/5/, https://swapi-api.hbtn.io/api/films/6/]
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the creation date of the planet: 2014-12-09T13:50:49.641000Z
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the last edited date of the planet: 2014-12-20T20:58:18.411000Z
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the URL of the planet: https://swapi-api.hbtn.io/api/planets/1/
+2024-12-18 21:26:58 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 1 items.
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Getting the name of the planet: Tatooine
+2024-12-18 21:26:58 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Получение планеты по имени: Неизвестная Планета
+2024-12-18 21:26:58 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/planets?search=Неизвестная Планета
+2024-12-18 21:26:59 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {"count":0,"next":null,"previous":null,"results":[]}
+2024-12-18 21:26:59 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 0
+2024-12-18 21:26:59 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 21:26:59 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 21:26:59 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 21:26:59 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 21:26:59 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 0 items.
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:26:59 [Test worker] WARN  com.example.starwarsapiclient.ApiService - Объект не найден по запросу: Неизвестная Планета
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character name: Luke Skywalker
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character height: 172
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character mass: 77
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character hair color: Blond
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character skin color: Fair
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character eye color: Blue
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character birth year: 19BBY
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character gender: Male
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character homeworld: https://swapi.dev/api/planets/1/
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character films: [https://swapi.dev/api/films/1/]
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character species: []
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character vehicles: [https://swapi.dev/api/vehicles/14/]
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character starships: [https://swapi.dev/api/starships/12/]
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character URL: https://swapi.dev/api/people/1/
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting created date for character: 2014-12-09T13:50:51.644000Z
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting edited date for character: 2014-12-20T21:17:56.891000Z
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character name: Luke Skywalker
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character height: 172
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character mass: 77
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character hair color: Blond
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character skin color: Fair
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character eye color: Blue
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character birth year: 19BBY
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character gender: Male
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character homeworld: https://swapi.dev/api/planets/1/
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character films: [https://swapi.dev/api/films/1/]
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character species: []
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character vehicles: [https://swapi.dev/api/vehicles/14/]
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character starships: [https://swapi.dev/api/starships/12/]
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character URL: https://swapi.dev/api/people/1/
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character created date: 2014-12-09T13:50:51.644000Z
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting edited date for character: 2014-12-20T21:17:56.891000Z

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.starwarsapiclient.CharacterDTOTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-18T16:26:59" hostname="SERVER" time="0.005">
+  <properties/>
+  <testcase name="testCharacterDTO_GettersAndSetters" classname="com.example.starwarsapiclient.CharacterDTOTest" time="0.005"/>
+  <system-out><![CDATA[2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character name: Luke Skywalker
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character height: 172
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character mass: 77
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character hair color: Blond
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character skin color: Fair
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character eye color: Blue
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character birth year: 19BBY
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character gender: Male
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character homeworld: https://swapi.dev/api/planets/1/
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character films: [https://swapi.dev/api/films/1/]
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character species: []
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character vehicles: [https://swapi.dev/api/vehicles/14/]
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character starships: [https://swapi.dev/api/starships/12/]
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character URL: https://swapi.dev/api/people/1/
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting created date for character: 2014-12-09T13:50:51.644000Z
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting edited date for character: 2014-12-20T21:17:56.891000Z
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character name: Luke Skywalker
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character height: 172
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character mass: 77
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character hair color: Blond
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character skin color: Fair
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character eye color: Blue
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character birth year: 19BBY
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character gender: Male
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character homeworld: https://swapi.dev/api/planets/1/
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character films: [https://swapi.dev/api/films/1/]
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character species: []
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character vehicles: [https://swapi.dev/api/vehicles/14/]
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character starships: [https://swapi.dev/api/starships/12/]
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character URL: https://swapi.dev/api/people/1/
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character created date: 2014-12-09T13:50:51.644000Z
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting edited date for character: 2014-12-20T21:17:56.891000Z
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

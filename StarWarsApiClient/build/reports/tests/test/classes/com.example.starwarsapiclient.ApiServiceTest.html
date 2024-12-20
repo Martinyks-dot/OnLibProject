@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge"/>
+<title>Test results - Class com.example.starwarsapiclient.ApiServiceTest</title>
+<link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<script src="../js/report.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="content">
+<h1>Class com.example.starwarsapiclient.ApiServiceTest</h1>
+<div class="breadcrumbs">
+<a href="../index.html">all</a> &gt; 
+<a href="../packages/com.example.starwarsapiclient.html">com.example.starwarsapiclient</a> &gt; ApiServiceTest</div>
+<div id="summary">
+<table>
+<tr>
+<td>
+<div class="summaryGroup">
+<table>
+<tr>
+<td>
+<div class="infoBox" id="tests">
+<div class="counter">5</div>
+<p>tests</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="failures">
+<div class="counter">0</div>
+<p>failures</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="ignored">
+<div class="counter">0</div>
+<p>ignored</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="duration">
+<div class="counter">4.666s</div>
+<p>duration</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td>
+<div class="infoBox success" id="successRate">
+<div class="percent">100%</div>
+<p>successful</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="tabs">
+<ul class="tabLinks">
+<li>
+<a href="#tab0">Tests</a>
+</li>
+<li>
+<a href="#tab1">Standard output</a>
+</li>
+</ul>
+<div id="tab0" class="tab">
+<h2>Tests</h2>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Duration</th>
+<th>Result</th>
+</tr>
+</thead>
+<tr>
+<td class="success">testGetCharacterByName_Found</td>
+<td class="success">0.593s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">testGetCharacterByName_NotFound</td>
+<td class="success">0.564s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">testGetFilmByName_NotFound</td>
+<td class="success">2.341s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">testGetPlanetByName_Found</td>
+<td class="success">0.600s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">testGetPlanetByName_NotFound</td>
+<td class="success">0.568s</td>
+<td class="success">passed</td>
+</tr>
+</table>
+</div>
+<div id="tab1" class="tab">
+<h2>Standard output</h2>
+<span class="code">
+<pre>2024-12-18 21:26:54 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Получение фильма по названию: Неизвестный Фильм
+2024-12-18 21:26:54 [Test worker] INFO  com.example.starwarsapiclient.QueryDictionary - Initializing QueryDictionary...
+2024-12-18 21:26:54 [Test worker] INFO  com.example.starwarsapiclient.QueryDictionary - QueryDictionary initialized successfully.
+2024-12-18 21:26:54 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/films?search=Неизвестный Фильм
+2024-12-18 21:26:56 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {&quot;count&quot;:0,&quot;next&quot;:null,&quot;previous&quot;:null,&quot;results&quot;:[]}
+2024-12-18 21:26:56 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 0
+2024-12-18 21:26:56 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 21:26:56 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 21:26:56 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 21:26:56 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 21:26:56 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 0 items.
+2024-12-18 21:26:56 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:26:56 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:26:56 [Test worker] WARN  com.example.starwarsapiclient.ApiService - Объект не найден по запросу: Неизвестный Фильм
+2024-12-18 21:26:56 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Получение персонажа по имени: Неизвестный Персонаж
+2024-12-18 21:26:56 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/people?search=Неизвестный Персонаж
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {&quot;count&quot;:0,&quot;next&quot;:null,&quot;previous&quot;:null,&quot;results&quot;:[]}
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 0
+2024-12-18 21:26:57 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 21:26:57 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 0 items.
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:26:57 [Test worker] WARN  com.example.starwarsapiclient.ApiService - Объект не найден по запросу: Неизвестный Персонаж
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Получение персонажа по имени: Люк Скайуокер
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/people?search=Luke Skywalker
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {&quot;count&quot;:1,&quot;next&quot;:null,&quot;previous&quot;:null,&quot;results&quot;:[{&quot;name&quot;:&quot;Luke Skywalker&quot;,&quot;height&quot;:&quot;172&quot;,&quot;mass&quot;:&quot;77&quot;,&quot;hair_color&quot;:&quot;blond&quot;,&quot;skin_color&quot;:&quot;fair&quot;,&quot;eye_color&quot;:&quot;blue&quot;,&quot;birth_year&quot;:&quot;19BBY&quot;,&quot;gender&quot;:&quot;male&quot;,&quot;homeworld&quot;:&quot;https://swapi-api.hbtn.io/api/planets/1/&quot;,&quot;films&quot;:[&quot;https://swapi-api.hbtn.io/api/films/1/&quot;,&quot;https://swapi-api.hbtn.io/api/films/2/&quot;,&quot;https://swapi-api.hbtn.io/api/films/3/&quot;,&quot;https://swapi-api.hbtn.io/api/films/6/&quot;,&quot;https://swapi-api.hbtn.io/api/films/7/&quot;],&quot;species&quot;:[&quot;https://swapi-api.hbtn.io/api/species/1/&quot;],&quot;vehicles&quot;:[&quot;https://swapi-api.hbtn.io/api/vehicles/14/&quot;,&quot;https://swapi-api.hbtn.io/api/vehicles/30/&quot;],&quot;starships&quot;:[&quot;https://swapi-api.hbtn.io/api/starships/12/&quot;,&quot;https://swapi-api.hbtn.io/api/starships/22/&quot;],&quot;created&quot;:&quot;2014-12-09T13:50:51.644000Z&quot;,&quot;edited&quot;:&quot;2014-12-20T21:17:56.891000Z&quot;,&quot;url&quot;:&quot;https://swapi-api.hbtn.io/api/people/1/&quot;}]}
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 1
+2024-12-18 21:26:57 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 21:26:57 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character name: Luke Skywalker
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character height: 172
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character mass: 77
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character hair color: blond
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character skin color: fair
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character eye color: blue
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character birth year: 19BBY
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character gender: male
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character homeworld: https://swapi-api.hbtn.io/api/planets/1/
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character films: [https://swapi-api.hbtn.io/api/films/1/, https://swapi-api.hbtn.io/api/films/2/, https://swapi-api.hbtn.io/api/films/3/, https://swapi-api.hbtn.io/api/films/6/, https://swapi-api.hbtn.io/api/films/7/]
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character species: [https://swapi-api.hbtn.io/api/species/1/]
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character vehicles: [https://swapi-api.hbtn.io/api/vehicles/14/, https://swapi-api.hbtn.io/api/vehicles/30/]
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character starships: [https://swapi-api.hbtn.io/api/starships/12/, https://swapi-api.hbtn.io/api/starships/22/]
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting created date for character: 2014-12-09T13:50:51.644000Z
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting edited date for character: 2014-12-20T21:17:56.891000Z
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Setting character URL: https://swapi-api.hbtn.io/api/people/1/
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 1 items.
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:26:57 [Test worker] DEBUG com.example.starwarsapiclient.CharacterDTO - Getting character name: Luke Skywalker
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Получение планеты по имени: Татуин
+2024-12-18 21:26:57 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/planets?search=Tatooine
+2024-12-18 21:26:58 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {&quot;count&quot;:1,&quot;next&quot;:null,&quot;previous&quot;:null,&quot;results&quot;:[{&quot;name&quot;:&quot;Tatooine&quot;,&quot;rotation_period&quot;:&quot;23&quot;,&quot;orbital_period&quot;:&quot;304&quot;,&quot;diameter&quot;:&quot;10465&quot;,&quot;climate&quot;:&quot;arid&quot;,&quot;gravity&quot;:&quot;1 standard&quot;,&quot;terrain&quot;:&quot;desert&quot;,&quot;surface_water&quot;:&quot;1&quot;,&quot;population&quot;:&quot;200000&quot;,&quot;residents&quot;:[&quot;https://swapi-api.hbtn.io/api/people/1/&quot;,&quot;https://swapi-api.hbtn.io/api/people/2/&quot;,&quot;https://swapi-api.hbtn.io/api/people/4/&quot;,&quot;https://swapi-api.hbtn.io/api/people/6/&quot;,&quot;https://swapi-api.hbtn.io/api/people/7/&quot;,&quot;https://swapi-api.hbtn.io/api/people/8/&quot;,&quot;https://swapi-api.hbtn.io/api/people/9/&quot;,&quot;https://swapi-api.hbtn.io/api/people/11/&quot;,&quot;https://swapi-api.hbtn.io/api/people/43/&quot;,&quot;https://swapi-api.hbtn.io/api/people/62/&quot;],&quot;films&quot;:[&quot;https://swapi-api.hbtn.io/api/films/1/&quot;,&quot;https://swapi-api.hbtn.io/api/films/3/&quot;,&quot;https://swapi-api.hbtn.io/api/films/4/&quot;,&quot;https://swapi-api.hbtn.io/api/films/5/&quot;,&quot;https://swapi-api.hbtn.io/api/films/6/&quot;],&quot;created&quot;:&quot;2014-12-09T13:50:49.641000Z&quot;,&quot;edited&quot;:&quot;2014-12-20T20:58:18.411000Z&quot;,&quot;url&quot;:&quot;https://swapi-api.hbtn.io/api/planets/1/&quot;}]}
+2024-12-18 21:26:58 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 1
+2024-12-18 21:26:58 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 21:26:58 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 21:26:58 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 21:26:58 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the name of the planet: Tatooine
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the rotation period of the planet: 23
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the orbital period of the planet: 304
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the diameter of the planet: 10465
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the climate of the planet: arid
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the gravity of the planet: 1 standard
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the terrain of the planet: desert
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the surface water of the planet: 1
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the population of the planet: 200000
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the residents of the planet: [https://swapi-api.hbtn.io/api/people/1/, https://swapi-api.hbtn.io/api/people/2/, https://swapi-api.hbtn.io/api/people/4/, https://swapi-api.hbtn.io/api/people/6/, https://swapi-api.hbtn.io/api/people/7/, https://swapi-api.hbtn.io/api/people/8/, https://swapi-api.hbtn.io/api/people/9/, https://swapi-api.hbtn.io/api/people/11/, https://swapi-api.hbtn.io/api/people/43/, https://swapi-api.hbtn.io/api/people/62/]
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the films where the planet appears: [https://swapi-api.hbtn.io/api/films/1/, https://swapi-api.hbtn.io/api/films/3/, https://swapi-api.hbtn.io/api/films/4/, https://swapi-api.hbtn.io/api/films/5/, https://swapi-api.hbtn.io/api/films/6/]
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the creation date of the planet: 2014-12-09T13:50:49.641000Z
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the last edited date of the planet: 2014-12-20T20:58:18.411000Z
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Setting the URL of the planet: https://swapi-api.hbtn.io/api/planets/1/
+2024-12-18 21:26:58 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 1 items.
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 1
+2024-12-18 21:26:58 [Test worker] DEBUG com.example.starwarsapiclient.PlanetDTO - Getting the name of the planet: Tatooine
+2024-12-18 21:26:58 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Получение планеты по имени: Неизвестная Планета
+2024-12-18 21:26:58 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Отправляем запрос на: https://swapi-api.hbtn.io/api/planets?search=Неизвестная Планета
+2024-12-18 21:26:59 [Test worker] INFO  com.example.starwarsapiclient.ApiService - Ответ API: {&quot;count&quot;:0,&quot;next&quot;:null,&quot;previous&quot;:null,&quot;results&quot;:[]}
+2024-12-18 21:26:59 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting count to: 0
+2024-12-18 21:26:59 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Next page URL is null!
+2024-12-18 21:26:59 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting next page URL to: null
+2024-12-18 21:26:59 [Test worker] WARN  com.example.starwarsapiclient.ApiResponse - Previous page URL is null!
+2024-12-18 21:26:59 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting previous page URL to: null
+2024-12-18 21:26:59 [Test worker] INFO  com.example.starwarsapiclient.ApiResponse - Setting results list with 0 items.
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:26:59 [Test worker] DEBUG com.example.starwarsapiclient.ApiResponse - Getting results list of size: 0
+2024-12-18 21:26:59 [Test worker] WARN  com.example.starwarsapiclient.ApiService - Объект не найден по запросу: Неизвестная Планета
+</pre>
+</span>
+</div>
+</div>
+<div id="footer">
+<p>
+<div>
+<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines
+<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+</label>
+</div>Generated by 
+<a href="http://www.gradle.org">Gradle 8.11.1</a> at 18 дек. 2024 г., 21:26:59</p>
+</div>
+</div>
+</body>
+</html>

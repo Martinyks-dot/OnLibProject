@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.starwarsapiclient.QueryDictionaryTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-12-18T16:26:59" hostname="SERVER" time="0.0">
+  <properties/>
+  <testcase name="testGetEnglishQuery_UnknownQuery" classname="com.example.starwarsapiclient.QueryDictionaryTest" time="0.0"/>
+  <testcase name="testGetEnglishQuery_Planets" classname="com.example.starwarsapiclient.QueryDictionaryTest" time="0.0"/>
+  <testcase name="testGetEnglishQuery_Characters" classname="com.example.starwarsapiclient.QueryDictionaryTest" time="0.0"/>
+  <testcase name="testGetEnglishQuery_Films" classname="com.example.starwarsapiclient.QueryDictionaryTest" time="0.0"/>
+  <testcase name="testGetQueries" classname="com.example.starwarsapiclient.QueryDictionaryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

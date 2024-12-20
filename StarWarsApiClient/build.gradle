@@ -1,0 +1,75 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'org.javamodularity.moduleplugin' version '1.8.15'
+    id 'org.openjfx.javafxplugin' version '0.1.0'
+    id 'org.beryx.jlink' version '2.25.0'
+}
+
+group 'com.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+ext {
+    junitVersion = '4.13.2' // Обновляем версию JUnit на 4.13.2
+}
+
+java {
+    sourceCompatibility = '22'
+    targetCompatibility = '22'
+}
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+application {
+    mainModule = 'com.example.starwarsapiclient'
+    mainClass = 'com.example.starwarsapiclient.MainApp'
+}
+
+javafx {
+    version = '17.0.6'
+    modules = ['javafx.controls', 'javafx.fxml']
+}
+
+dependencies {
+    // Rest Assured для выполнения API-запросов
+    implementation 'io.rest-assured:rest-assured:5.0.0'
+
+    // Jackson для парсинга JSON
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.13.0'
+
+    // JavaFX для GUI
+    implementation 'org.openjfx:javafx-controls:17.0.6'
+    implementation 'org.openjfx:javafx-fxml:17.0.6'
+
+    // Log4j для логирования
+    implementation 'org.apache.logging.log4j:log4j-api:2.20.0'
+    implementation 'org.apache.logging.log4j:log4j-core:2.20.0'
+
+    // JUnit 4 для тестирования с исключением Hamcrest
+    testImplementation("junit:junit:${junitVersion}") {
+        exclude group: 'org.hamcrest', module: 'hamcrest-core'
+        exclude group: 'org.hamcrest', module: 'hamcrest-library'
+    }
+
+    // Mockito для мокирования с исключением Hamcrest
+    testImplementation('org.mockito:mockito-core:3.12.4') {
+        exclude group: 'org.hamcrest', module: 'hamcrest-core'
+        exclude group: 'org.hamcrest', module: 'hamcrest-library'
+    }
+
+    // Явно добавить Hamcrest 2.2
+    testImplementation 'org.hamcrest:hamcrest:2.2'
+}
+
+test {
+    // Настройка логирования для тестов
+    testLogging {
+        events "passed", "failed", "skipped"
+    }
+}
